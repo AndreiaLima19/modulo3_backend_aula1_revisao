@@ -1,0 +1,16 @@
+{
+  "name": "backend_aula_1",
+  "version": "1.0.0",
+  "description": "Banck-end aula 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Ismael Cardoso",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.14",
+    "prompt-sync": "^4.2.0"
+  }
+}
